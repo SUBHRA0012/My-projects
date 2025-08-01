@@ -17,3 +17,5 @@ Tech Stack
 - Backend: PHP (Vanilla PHP)
 - Database: MySQL
 - Server: Apache (XAMPP/WAMP)
+  
+I will build an admin panel in future who can manage the news upload new content and alter them.
