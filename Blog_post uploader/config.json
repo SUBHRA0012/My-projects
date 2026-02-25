@@ -1,0 +1,24 @@
+{
+    "params":{
+        "local_server": "True",
+        "local_uri": "mysql://root:1234@localhost/blog",
+        "prod_uri": "mysql://root:1234@localhost/blog",
+        "imp_msg": "Go to hell, we obiously share your infos haha!!!",
+        "sub_msg": "Hoa geche Submit",
+        "gmail_user": "billubiraj@gmail.com",
+        "gmail_pswd": "anot mmco vbff dwjg",
+        "twt_link": "https://x.com/SubhraS30459555?t=UI08lvpH74Y-d3HGNqYdmA&s=08",
+        "git_link": "https://github.com/SUBHRA0012",
+        "face_link": "https://www.facebook.com",
+        "blog_head": "ScilentTalks",
+        "blog_head2": "Express your unexpressed dailagues",
+        "log_img": "login-bg.svg",
+        "uname": "Admin-babu",
+        "pass": "0912",
+        "file_loc": "E:\\My project\\flask\\static\\uploaded files",
+        "file_loc2": "E:\\My project\\flask\\static\\assets\\img"
+        
+
+
+    }
+}
