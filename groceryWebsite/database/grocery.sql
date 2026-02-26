@@ -134,7 +134,7 @@ CREATE TABLE `message_customer` (
 INSERT INTO `message_customer` (`sno`, `name`, `email`, `subject`, `message`, `date`, `status`) VALUES
 (1, 'rani rai', 'ranji@gmail.com', 'blocked my account', 'why you blocked my account?', '2026-02-24 15:22:56', 1),
 (2, 'Subham Das', 'das@email.com', 'review of website', 'your website is nice, keep going', '2026-02-24 15:29:07', 1),
-(3, 'asc', 'subhra172019@gmail.com', 'ssacc', 'adsf', '2026-02-24 15:30:09', 1);
+(3, 'asc', 'sub@sub.com', 'ssacc', 'adsf', '2026-02-24 15:30:09', 1);
 
 -- --------------------------------------------------------
 
