@@ -5,4 +5,4 @@ The second one is a simple PHP-based news discussion forum where users can view 
 Another one is a mini application to check the weather of any location you entered through keyboard.
 its a one page application which shows the details about temperaure, humidity and wind speed including the city name which one you choose, using JavaScript, HTML, Css.
 
-
+Grocery website: Its a Grocery E-commerce website using HTML, CSS, Javascript and PHP with features like product browsing, cart management, quantity selection, order tracking with progress bar, invoice generation and an admin panel for user management.
