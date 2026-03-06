@@ -140,11 +140,11 @@ document.addEventListener('click', (e) => {
                     let oldInput = form.querySelector('input[name="edit_product_id"]');
                     if (oldInput) oldInput.remove();
 
-                    // নতুন হিডেন ইনপুট যোগ করা
+                    
                     form.insertAdjacentHTML('beforeend', `<input type="hidden" name="edit_product_id" value="${p.id}">`);
                     form.classList.add('is-editing');
 
-                    // ৩. মোডাল (পপ-আপ) ওপেন করা
+                    
                     let myModal = new bootstrap.Modal(document.getElementById('addProductModal'));
                     myModal.show();
                 }
